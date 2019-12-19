@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-test123-test123UITests/Pods-test123-test123UITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/ReactiveObjC/ReactiveObjC.framework

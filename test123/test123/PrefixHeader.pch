@@ -1,0 +1,15 @@
+//
+//  PrefixHeader.pch
+//  test123
+//
+//  Created by guowenke on 2019/12/18.
+//  Copyright © 2019 guowenke. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import <AFNetworking/AFNetworking.h>
+#import <ReactiveObjC/ReactiveObjC.h>
+
+#endif /* PrefixHeader_pch */
